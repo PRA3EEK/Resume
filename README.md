@@ -1,3 +1,3 @@
 # Resume
 <h3>Pdf link of resume :-> </h3>
-<p>https://github.com/PRA3EEK/Resume/files/9816840/prateek.chauhan.resume.pdf</p>
+<p>https://drive.google.com/file/d/1gYfzYS4mWK-hAWkzaXSDH0IXSGvFdr4D/view?usp=sharing</p>
